@@ -4,4 +4,5 @@
 
 `php
       echo "out";
+      echo "chief-out!";
 `
